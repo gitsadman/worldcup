@@ -1,0 +1,134 @@
+.bannerdiv{
+    background-color: black;
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    border-radius: 30px;
+    height: 646px;
+    width: 1321px;
+    margin-left: 120px;
+    margin-top: 50px;
+
+    
+
+}
+.bannertext{
+    margin-left: 40px;
+    font-family: "Trirong", serif;
+}
+
+.bannerimg{
+    margin-left: 10px;
+}
+button {
+    color: antiquewhite;
+    background-color: red;
+    border-radius: 4px;
+    width: 187px;
+    height: 56px;
+    font-family: "Trirong", serif;
+    
+}
+button:hover{
+    color: red;
+    background-color:white;
+}
+.all-after-banner{
+    margin-left: 120px;
+}
+.afterbanner{
+    display: flex
+}
+
+.threebutton{
+    display: inline-grid;
+    background-color: black;
+    width: 312px;
+    height: 312px;
+    margin-top: 130px;
+    border-radius: 10px;
+    font-family: "Trirong", serif;
+    
+
+
+
+}
+.matchbutton{
+    color: black;
+    background-color: white;
+    font-weight: 900;
+    margin-left: 55px;
+    margin-top: 25px;
+    font-family: "Trirong", serif;   
+}
+.matchbutton:hover{
+    color: aliceblue;
+    background-color: red;
+}
+.grid-container{
+    margin-top: 130px;
+    margin-left: 10px;
+    display: grid;
+    grid-template-columns:  50px 50px 50px;
+    column-gap: 280px;
+}
+.grid-item{
+    height: 362px;
+    width: 312px;
+
+}
+.transfer{
+    color: black;
+    background-color: white;
+    width: 100px;
+    height: 32px;
+    margin-left: 15px;
+    margin-top: 15px;
+    font-family: "Trirong", serif;
+}
+h5{
+    margin-left: 15px;
+    font-family: "Trirong", serif;
+}
+.icons{
+    display: flex;
+}
+.clockicon{
+    margin-left: 15px;
+    margin-right: 25px;
+}
+.messageicon{
+    margin-left: 15px;
+    margin-right: 25px;
+}
+
+footer{
+    height: 444px;
+    width: 100%;
+    background-color: black;
+    color: antiquewhite;
+    margin-top: 130px;
+    font-family: "Trirong", serif;
+
+}
+.footer{
+   text-align: center;
+   padding-top: 130px;
+   
+}
+hr{
+    width: 1320px;
+}
+.all-link-div{
+    display: flex;
+    width: 898px;
+    height: 24px;
+    margin-left: 530px;
+}
+.all-link{
+    text-decoration: none;
+    text-align: center;
+    color: antiquewhite;
+    margin: 20px;
+    
+}
